@@ -1,0 +1,117 @@
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\PENN STATE (1)\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.exe.config
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\PENN STATE (1)\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.exe
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\PENN STATE (1)\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.pdb
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\PENN STATE (1)\CalculatorXu\CalculatorXu\obj\Debug\MainWindow.g.cs
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\PENN STATE (1)\CalculatorXu\CalculatorXu\obj\Debug\App.g.cs
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\PENN STATE (1)\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu_MarkupCompile.cache
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\PENN STATE (1)\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu_MarkupCompile.lref
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\PENN STATE (1)\CalculatorXu\CalculatorXu\obj\Debug\MainWindow.baml
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\PENN STATE (1)\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.g.resources
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\PENN STATE (1)\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.Properties.Resources.resources
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\PENN STATE (1)\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.csproj.GenerateResource.Cache
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\PENN STATE (1)\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.exe
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\PENN STATE (1)\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.pdb
+E:\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.exe.config
+E:\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.exe
+E:\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.pdb
+F:\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.exe.config
+F:\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.exe
+F:\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.pdb
+F:\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.exe
+F:\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.pdb
+F:\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.csprojResolveAssemblyReference.cache
+F:\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\obj\Debug\MainWindow.g.cs
+F:\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\obj\Debug\App.g.cs
+F:\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu_MarkupCompile.cache
+F:\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu_MarkupCompile.lref
+F:\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\obj\Debug\MainWindow.baml
+F:\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.g.resources
+F:\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.Properties.Resources.resources
+F:\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.csproj.GenerateResource.Cache
+F:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.exe.config
+F:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.exe
+F:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.pdb
+F:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.csprojResolveAssemblyReference.cache
+F:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\MainWindow.g.cs
+F:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\App.g.cs
+F:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu_MarkupCompile.cache
+F:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu_MarkupCompile.lref
+E:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.exe.config
+E:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.exe
+E:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.pdb
+E:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.csprojResolveAssemblyReference.cache
+E:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\MainWindow.g.cs
+E:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\App.g.cs
+E:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu_MarkupCompile.cache
+E:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu_MarkupCompile.lref
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.exe.config
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.exe
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.pdb
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.csprojResolveAssemblyReference.cache
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\obj\Debug\MainWindow.g.cs
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\obj\Debug\App.g.cs
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu_MarkupCompile.cache
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\PENN STATE (1)\IST331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu_MarkupCompile.lref
+C:\Users\swiftycloudmusic\Documents\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.exe.config
+C:\Users\swiftycloudmusic\Documents\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.exe
+C:\Users\swiftycloudmusic\Documents\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.pdb
+F:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.exe
+F:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.pdb
+F:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\MainWindow.baml
+F:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.g.resources
+F:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.Properties.Resources.resources
+F:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.csproj.GenerateResource.Cache
+E:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.exe
+E:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.pdb
+E:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\MainWindow.baml
+E:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.g.resources
+E:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.Properties.Resources.resources
+E:\PENN STATE\SPRING 2017\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.csproj.GenerateResource.Cache
+C:\Users\swiftycloudmusic\Desktop\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.exe.config
+C:\Users\swiftycloudmusic\Desktop\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.exe
+C:\Users\swiftycloudmusic\Desktop\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.pdb
+C:\Users\swiftycloudmusic\Documents\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.csprojResolveAssemblyReference.cache
+C:\Users\swiftycloudmusic\Documents\CalculatorXu\CalculatorXu\obj\Debug\MainWindow.g.cs
+C:\Users\swiftycloudmusic\Documents\CalculatorXu\CalculatorXu\obj\Debug\App.g.cs
+C:\Users\swiftycloudmusic\Documents\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu_MarkupCompile.cache
+C:\Users\swiftycloudmusic\Documents\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu_MarkupCompile.lref
+C:\Users\swiftycloudmusic\Documents\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.exe
+C:\Users\swiftycloudmusic\Documents\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.pdb
+C:\Users\swiftycloudmusic\Documents\CalculatorXu\CalculatorXu\obj\Debug\MainWindow.baml
+C:\Users\swiftycloudmusic\Documents\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.g.resources
+C:\Users\swiftycloudmusic\Documents\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.Properties.Resources.resources
+C:\Users\swiftycloudmusic\Documents\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.csproj.GenerateResource.Cache
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.exe.config
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.exe
+\\udrive.win.psu.edu\Users\g\p\gpx5000\Desktop\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.pdb
+E:\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.exe.config
+E:\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.exe
+E:\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.pdb
+F:\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.exe.config
+F:\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.exe
+F:\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.pdb
+E:\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.exe
+E:\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.pdb
+E:\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.csprojResolveAssemblyReference.cache
+E:\CalculatorXu\CalculatorXu\obj\Debug\MainWindow.g.cs
+E:\CalculatorXu\CalculatorXu\obj\Debug\App.g.cs
+E:\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu_MarkupCompile.cache
+E:\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu_MarkupCompile.lref
+E:\CalculatorXu\CalculatorXu\obj\Debug\MainWindow.baml
+E:\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.g.resources
+E:\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.Properties.Resources.resources
+E:\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.csproj.GenerateResource.Cache
+F:\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.exe
+F:\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.pdb
+F:\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.csprojResolveAssemblyReference.cache
+F:\CalculatorXu\CalculatorXu\obj\Debug\MainWindow.g.cs
+F:\CalculatorXu\CalculatorXu\obj\Debug\App.g.cs
+F:\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu_MarkupCompile.cache
+F:\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu_MarkupCompile.lref
+F:\CalculatorXu\CalculatorXu\obj\Debug\MainWindow.baml
+F:\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.g.resources
+F:\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.Properties.Resources.resources
+F:\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.csproj.GenerateResource.Cache
+C:\Users\swiftycloudmusic\Documents\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\bin\Debug\CalculatorXu.exe.config
+C:\Users\swiftycloudmusic\Documents\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.exe
+C:\Users\swiftycloudmusic\Documents\INFORMATION SCIENCE & TECH 331\CalculatorXu\CalculatorXu\obj\Debug\CalculatorXu.pdb
